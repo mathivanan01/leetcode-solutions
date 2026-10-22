@@ -1,0 +1,47 @@
+{
+  "v": 1,
+  "updatedAt": 1792647629128,
+  "devices": {
+    "f82f4331-19c8-455b-be10-794d17816c90": {
+      "lastSeen": 1792647628724
+    }
+  },
+  "problems": {
+    "1": {
+      "attempts": 1,
+      "bestMemory": "46.3 MB (Beats 99%)",
+      "bestRuntime": "45 ms (Beats 27%)",
+      "date": "2026-10-22",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-22",
+      "folderName": "0001-Two-Sum",
+      "language": "Java",
+      "number": 1,
+      "slug": "two-sum",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "title": "Two Sum",
+      "at": 1792647628724
+    }
+  },
+  "achievements": {
+    "first_blood": 1792647573748
+  },
+  "sheets": {},
+  "days": [
+    "2026-10-22"
+  ],
+  "bests": {
+    "longestStreak": 1,
+    "pushes": 1
+  },
+  "identity": {
+    "installId": "8f4b5c51-775e-475b-8847-355241966f0a",
+    "at": 1792647328723,
+    "name": "mathivanan",
+    "nameAt": 1792647513951
+  }
+}
