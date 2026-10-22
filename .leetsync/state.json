@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792688429419,
+  "updatedAt": 1792688729240,
   "devices": {
     "f82f4331-19c8-455b-be10-794d17816c90": {
-      "lastSeen": 1792688428886
+      "lastSeen": 1792688728771
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1792688428886
+      "at": 1792688728771
     }
   },
   "achievements": {
