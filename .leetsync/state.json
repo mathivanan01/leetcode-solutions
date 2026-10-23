@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792767848400,
+  "updatedAt": 1792768114370,
   "devices": {
     "f82f4331-19c8-455b-be10-794d17816c90": {
-      "lastSeen": 1792767847769
+      "lastSeen": 1792768113435
     }
   },
   "problems": {
@@ -24,7 +24,26 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1792767847769
+      "at": 1792768113435
+    },
+    "1768": {
+      "attempts": 2,
+      "bestMemory": "42.5 MB (Beats 96%)",
+      "bestRuntime": "1 ms (Beats 96%)",
+      "date": "2026-10-23",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-23",
+      "folderName": "1768-Merge-Strings-Alternately",
+      "language": "Java",
+      "number": 1768,
+      "slug": "merge-strings-alternately",
+      "solutionCount": 2,
+      "tags": [
+        "Two Pointers",
+        "String"
+      ],
+      "title": "Merge Strings Alternately",
+      "at": 1792768113435
     }
   },
   "achievements": {
@@ -32,11 +51,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-10-22"
+    "2026-10-22",
+    "2026-10-23"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 1
+    "longestStreak": 2,
+    "pushes": 3
   },
   "identity": {
     "installId": "8f4b5c51-775e-475b-8847-355241966f0a",
